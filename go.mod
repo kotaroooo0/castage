@@ -1,4 +1,4 @@
-module github.com/orisano/castage
+module github.com/kotaroooo0/castage
 
 go 1.14
 
